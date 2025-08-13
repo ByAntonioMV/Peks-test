@@ -12,6 +12,7 @@ Antes de compilar PEKS, necesitas instalar las herramientas de compilación y la
 ```bash
 sudo apt update
 sudo apt install build-essential libgmp-dev
+```bash
 
 ## 2️⃣ Requisitos previos
 
