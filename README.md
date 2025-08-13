@@ -18,6 +18,8 @@ Antes de empezar, necesitas las herramientas de compilación (`build-essential`)
 # Actualizar lista de paquetes e instalar dependencias
 sudo apt update
 sudo apt install build-essential libgmp-dev
+```
+
 2️⃣ Paso 2: Descargar y Compilar la Librería PBC
 Ahora, descargaremos y compilaremos la librería criptográfica PBC desde la fuente.
 
